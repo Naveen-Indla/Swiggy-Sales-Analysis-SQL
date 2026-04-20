@@ -95,7 +95,3 @@ Orders grouped into spend buckets:
 - 300–499  
 - 500+  
 
-
-## 📁 Project Structure
-# Swiggy-Sales-Analysis
-SQL-based Sales Analysis using MySQL
